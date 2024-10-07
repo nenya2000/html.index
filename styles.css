@@ -1,0 +1,18 @@
+.background-pink {
+    background-color: rgb(223, 83, 106);
+  }
+p {
+  font-style: italic;
+}
+h1 {
+  color: blue;
+}
+h1 {
+  font-size: large;
+}
+h1 {
+  text-align: center;
+}
+button {
+  border: darkcyan;
+}
